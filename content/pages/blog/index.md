@@ -28,7 +28,7 @@ sections:
     badge:
       elementId: ''
       label: lorem-ipsum
-    title: Another Title!
+    title: Another Title!..
     subtitle: This Is Subtitle
     text: Hello
     actions:
